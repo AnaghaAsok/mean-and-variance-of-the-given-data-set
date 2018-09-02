@@ -1,0 +1,1 @@
+# mean-and-variance-of-the-given-data-set
